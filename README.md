@@ -1,5 +1,6 @@
 # Hangman-Game
 A fun and interactive guessing game, played using the keyboard.
+Build using Eclipse.
 
 Bored? Why not play one of the classiest games of all time, "The Hangman". Follow the instructions, guess letters using the keyboard, and win!
 
